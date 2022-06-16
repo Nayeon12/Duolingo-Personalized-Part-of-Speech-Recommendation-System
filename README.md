@@ -1,2 +1,5 @@
 # Duolingo-Personalized-Part-of-Speech-Recommendation-System
-Knowledge Tracing
+
+Demo of recommendation system using SEKT model
+
+>https://github.com/Nayeon12/SEKT
